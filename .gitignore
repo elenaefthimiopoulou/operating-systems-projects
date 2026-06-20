@@ -1,0 +1,17 @@
+# Compiled binaries
+*.o
+*.out
+a.out
+mysh1
+mysh2
+mysh3
+multiproc_1
+multiproc_2
+
+# Temporary & system files
+*.swp
+*.bak
+*~
+.DS_Store
+desktop.ini
+Thumbs.db
